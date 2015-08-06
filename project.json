@@ -1,0 +1,147 @@
+{
+  "settings": {
+    "currentPage": "index.html"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": false
+          },
+          "items": "<ul class=\"nav nav-pills pull-right\"><li><a href=\"http://mobirise.com\" data-app-btn=\"true\" class=\"mbr-menu-item\" id=\"note-editor-63\">HOME</a></li><li><a href=\"#content5-4\" data-app-btn=\"true\" class=\"mbr-menu-item\" id=\"note-editor-64\">INFORMATION</a></li><li><a href=\"http://portfolio.sintlucas.org\" data-app-btn=\"true\" class=\"mbr-menu-item\" id=\"note-editor-65\" target=\"_blank\">COURSEBOOK</a></li></ul>",
+          "logo": "{PROJECT_IMAGES}logo.png",
+          "brand": "<p>\n                        <a href=\"http://portfolio.sintlucas.net\" target=\"_blank\">COURSE DEMO</a><a href=\"http://portfolio.sintlucas.net\" target=\"_blank\"></a><a href=\"http://portfolio.sintlucas.net\" target=\"_blank\"></a><a href=\"http://portfolio.sintlucas.net\" target=\"_blank\"></a><a href=\"http://mobirise.com\"></a>\n                    </p>",
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_styles": {
+            "A": {
+              "color": "#cccccc",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "{PROJECT_IMAGES}grijsvlak2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                        \n                        <h1>WELCOME TO THE DEMO SINGLE PAGE APPLICATION</h1><p>of the Portfolio I &amp; Portfolio II modules of the academic bachelorcourse Visual Arts, at <a href=\"http://www.luca-arts.be\" target=\"_blank\">LUCA School of Arts, Gent</a>, Belgium.</p>\n                    \n                    ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://portfolio.sintlucas.org/\" id=\"note-editor-77\" target=\"_blank\">GO BACK TO THE COURSEBOOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"#content5-4\" id=\"note-editor-78\">MORE INFORMATION</a>",
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            "H1": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
+            },
+            "P": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_params": {
+            "bgImageRadio": true,
+            "bgImage": "{PROJECT_IMAGES}roodvlak2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.6
+          },
+          "caption": "\n                            \n                            <h3 style=\"color: #fff\">THE MODULES PORTFOLIO I &amp; PORTFOLIO II</h3> <p style=\"color: #fff\"> These modules are about theoretical (digital archives, image editing, copyright, social media, ...) and practical aspects of online communication in art practices.  The coursematerial (frameworks and repositories) we use for the practical side of this course are published on Github.  The content of online publications are structured with a content management system (CMS), an application that allows to edit archived content into articles.&nbsp;</p><p style=\"color: #fff\"><br></p><p style=\"color: #fff\"><br></p>\n                        \n                        ",
+          "_name": "content5",
+          "_anchor": "content5-4",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "14px"
+            },
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "caption1": "\n                            <h3>OPEN SOURCE SOFTWARE</h3><p>Shared code or repositories are the basis of the coursemethod we use in this module. Students get aquianted with several systems of opensource code and software, used in art practices.</p>\n                        ",
+          "caption2": "\n                            <h3>COMMUNICATION IN ART PRACTICES</h3><p>Another starting point for this module is the diverse character of contemporary art practices. An essay \"de hybride kunstenaar\" of Camiel van Winkel, Pascal Gielen &amp; Koos Zwaan (in dutch) provides ome interesting data on this subject.</p>\n                        ",
+          "caption3": "\n                            <h3>COPYRIGHT, PRIVACY AND STATISTICS</h3><p>What is the impact of digital publications on copyright? What information does google-analytics provide and how does that influence my online publication?</p>\n                        ",
+          "caption4": "<h3>UNLIMITED WEBSITES</h3><p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "caption5": "<h3>TRENDY WEBSITE BLOCKS</h3><p>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.</p>",
+          "_name": "content4",
+          "_anchor": "content4-2",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}roodvlak.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "<p>Bureaupixel © 2015 | Email: <a href=\"mailto: info@bureaupixel.be\">info@bureaupixel.be</a></p>",
+          "_name": "footer1",
+          "_anchor": "footer1-3"
+        }
+      ]
+    }
+  }
+}
