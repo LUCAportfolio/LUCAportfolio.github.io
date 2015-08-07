@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html"
+    "currentPage": "page1.html"
   },
   "pages": {
     "index.html": {
@@ -16,7 +16,7 @@
           "_params": {
             "logo": false
           },
-          "items": "<ul class=\"nav nav-pills pull-right\"><li><a href=\"http://mobirise.com\" data-app-btn=\"true\" class=\"mbr-menu-item\" id=\"note-editor-63\">HOME</a></li><li><a href=\"#content5-4\" data-app-btn=\"true\" class=\"mbr-menu-item\" id=\"note-editor-64\">INFORMATION</a></li><li><a href=\"http://portfolio.sintlucas.org\" data-app-btn=\"true\" class=\"mbr-menu-item\" id=\"note-editor-65\" target=\"_blank\">COURSEBOOK</a></li></ul>",
+          "items": "<ul class=\"nav nav-pills pull-right\"><li><a href=\"#top\" data-app-btn=\"true\" class=\"mbr-menu-item\" id=\"note-editor-2\" target=\"_blank\">HOME</a></li><li><a href=\"#content5-4\" data-app-btn=\"true\" class=\"mbr-menu-item\" id=\"note-editor-3\">INFORMATION</a></li><li><a href=\"http://portfolio.sintlucas.org\" data-app-btn=\"true\" class=\"mbr-menu-item\" id=\"note-editor-4\" target=\"_blank\">COURSEBOOK</a></li></ul>",
           "logo": "{PROJECT_IMAGES}logo.png",
           "brand": "<p>\n                        <a href=\"http://portfolio.sintlucas.net\" target=\"_blank\">COURSE DEMO</a><a href=\"http://portfolio.sintlucas.net\" target=\"_blank\"></a><a href=\"http://portfolio.sintlucas.net\" target=\"_blank\"></a><a href=\"http://portfolio.sintlucas.net\" target=\"_blank\"></a><a href=\"http://mobirise.com\"></a>\n                    </p>",
           "_name": "menu",
@@ -142,6 +142,10 @@
           "_anchor": "footer1-3"
         }
       ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": []
     }
   }
 }
